@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "AstroSage_0066",
+      "email": "explorer_1790401660066@kathayatra.org",
+      "password_hash": "$2a$10$Dt72Z0Sr3HFtwQXgeEjsdOWTJK.VVZDpFYPqzPyaSm/BzigKCfGJC",
+      "age_group": "10-13",
+      "preferred_domain": "Vedic & Indian Heritage",
+      "points": 50,
+      "current_streak": 1,
+      "last_login_date": "2026-09-26",
+      "avatar_url": "astronomer",
+      "created_at": "2026-09-26T05:47:40.165Z"
+    }
+  ],
+  "user_game_progress": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "game_id": "timeline-runner",
+      "levels_completed": 2,
+      "total_score": 330,
+      "updated_at": "2026-09-26T05:47:40.217Z"
+    }
+  ],
+  "unlocked_stories": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "domain": "Vedic & Indian Heritage",
+      "title": "The Whispering Bow of Mithila",
+      "chapter_number": 1,
+      "content": "Long ago in the sacred city of Mithila, King Janaka guarded a divine celestial bow named Pinaka. Crafted from cosmic starlight, no mortal prince had ever been able to lift it off its iron altar. Young Prince Rama of Ayodhya stepped forward calmly, with his younger brother Lakshmana watching in awe. As Rama placed his hand upon the bow, a gentle chime resonated throughout the royal palace, and the massive weapon lifted as easily as a peacock feather! But just as he pulled the string to test its resonance...",
+      "twist_ending": "A deafening thunderclap ripped across the sky! The bow snapped in two, releasing a glowing scroll hidden inside the hollow bow-spine. The ancient Sanskrit glyphs glowed with a warning: \"The Golden Deer is already running towards the forest of Panchavati, and time is unravelling!\"",
+      "cliffhanger_question": "Who hid the mysterious golden scroll inside the cosmic bow thousands of years ago?",
+      "unlocked_at": "2026-09-26T05:47:40.218Z"
+    }
+  ],
+  "store_items": [
+    {
+      "id": 1,
+      "title": "James Webb Telescope: Peering into the Cosmic Dawn",
+      "category": "Space",
+      "description": "Travel 1.5 million kilometers into deep space to discover how the gold-coated mirrors of the JWST capture light from the very first galaxies formed after the Big Bang!",
+      "cost_points": 100,
+      "video_url": "https://www.youtube.com/embed/4P8fKd0IV84",
+      "thumbnail_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "duration_minutes": 12,
+      "highlights": "[\"Infrared astronomy vs visible light\",\"Deploying a tennis-court-sized sunshield in zero gravity\",\"Discovering water vapor and atmospheres on exoplanets\",\"Connecting ancient Babylonian star maps to modern deep sky surveys\"]"
+    },
+    {
+      "id": 2,
+      "title": "Quantum Computing for Young Explorers",
+      "category": "Quantum & Physics",
+      "description": "Learn how qubits can be 0, 1, or both at the same time! Discover superposition, entanglement, and how quantum computers solve impossible encryption mysteries.",
+      "cost_points": 150,
+      "video_url": "https://www.youtube.com/embed/QuR969uMICM",
+      "thumbnail_url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80",
+      "duration_minutes": 14,
+      "highlights": "[\"Qubits and Superposition simplified\",\"Spooky action at a distance (Quantum Entanglement)\",\"Sub-zero cryogenic cooling dilution refrigerators\",\"How quantum algorithms will design future medicine\"]"
+    },
+    {
+      "id": 3,
+      "title": "Mars Rover Perseverance & Ingenuity Helicopter",
+      "category": "Robotics",
+      "description": "Ride along with the Mars 2020 mission on the red planet Jezero Crater. Watch how a tiny solar-powered rotorcraft flew in atmospheric density 1% of Earth!",
+      "cost_points": 100,
+      "video_url": "https://www.youtube.com/embed/4czjS9h4Fpg",
+      "thumbnail_url": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=800&q=80",
+      "duration_minutes": 10,
+      "highlights": "[\"7 Minutes of Terror: Sky Crane touchdown maneuver\",\"Autonomous navigation in Martian terrain without GPS\",\"MOXIE: Generating oxygen out of Martian carbon dioxide\",\"Ancient lakebeds and hunting for microbial fossil biosignatures\"]"
+    },
+    {
+      "id": 4,
+      "title": "Ancient Engineering vs Modern Mega-Structures",
+      "category": "Applied Science",
+      "description": "Compare how Roman self-healing volcanic concrete and Harappan subterranean sanitation systems inspired modern skyscrapers and earthquake-proof buildings!",
+      "cost_points": 120,
+      "video_url": "https://www.youtube.com/embed/tIdJg0yFw-I",
+      "thumbnail_url": "https://images.unsplash.com/photo-1541888946425-d0fbb18086f6?auto=format&fit=crop&w=800&q=80",
+      "duration_minutes": 15,
+      "highlights": "[\"The chemistry of Roman pozzolanic ash concrete\",\"Seismic damping: Pagodas that survive earthquakes\",\"Indus Valley hydraulic water drainage gradients\",\"Biomimicry in futuristic architecture\"]"
+    },
+    {
+      "id": 5,
+      "title": "Fusion Energy: Building an Artificial Sun on Earth",
+      "category": "Applied Science",
+      "description": "Discover the Tokamak magnetic confinement reactor where hydrogen isotopes fuse at 150 million degrees Celsius to create virtually limitless clean energy.",
+      "cost_points": 200,
+      "video_url": "https://www.youtube.com/embed/2q8D1eA1gL0",
+      "thumbnail_url": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+      "duration_minutes": 16,
+      "highlights": "[\"Stars vs Earth: How fusion differs from fission\",\"Magnetic magnetic confinement inside magnetic bottles\",\"ITER international mega-project in France\",\"The dream of clean, limitless starlight energy\"]"
+    },
+    {
+      "id": 6,
+      "title": "Black Holes & The Event Horizon Telescope",
+      "category": "Space",
+      "description": "How an Earth-sized virtual telescope captured the first-ever direct image of the supermassive black hole Sagittarius A* at the center of our Milky Way galaxy!",
+      "cost_points": 180,
+      "video_url": "https://www.youtube.com/embed/S_GF34QZ04g",
+      "thumbnail_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=800&q=80",
+      "duration_minutes": 13,
+      "highlights": "[\"General Relativity and gravitational time dilation\",\"Very Long Baseline Interferometry (VLBI) technology\",\"The photon ring and event horizon shadow\",\"Supercomputer petabyte data correlation across continents\"]"
+    }
+  ],
+  "user_purchases": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "item_id": 1,
+      "purchased_at": "2026-09-26T05:47:40.267Z"
+    }
+  ],
+  "sequences": {
+    "users": 1,
+    "user_game_progress": 1,
+    "unlocked_stories": 1,
+    "store_items": 6,
+    "user_purchases": 1
+  }
+}
